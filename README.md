@@ -27,7 +27,6 @@ K-Digital Credit 국가 디지털 훈련과정 자바웹 개발자(시큐어코�
 ### 교육과정 수료 
 * 자바 웹 개발 (Docker) 양성 과정 (2023.10.10 ~ 2024.04.24 )
 * 이전에 수료했던 과정 풀네임 (기간)
-* 이전에 수료했던 과정 풀네임 (기간)
 
 ---
 
@@ -44,6 +43,8 @@ K-Digital Credit 국가 디지털 훈련과정 자바웹 개발자(시큐어코�
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 
 <br>
