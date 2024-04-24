@@ -44,7 +44,7 @@ K-Digital Credit 국가 디지털 훈련과정 자바웹 개발자(시큐어코�
 ![JSP](https://img.shields.io/badge/-JSP-007396?style=for-the-badge&logo=jsp&logoColor=ffffff)
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=ffffff)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=ffffff)
-![Spring Security](https://img.shields.io/badge/-Spring%20Security-4ea94b?style=for-the-badge&logoColor=white&labelColor=4ea94b)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=ffffff)
 ![MyBatis](https://img.shields.io/badge/-MyBatis-ffb732?style=for-the-badge&logoColor=white&labelColor=ffb732)
 ![JPA](https://img.shields.io/badge/-JPA-8363A7?style=for-the-badge&logoColor=white&labelColor=8363A7)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
