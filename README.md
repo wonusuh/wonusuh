@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/01.jpg?raw=true" width="100"/>
+<img align="center" src="https://github.com/wonusuh/wonusuh/upload/404.webp?raw=true" width="100"/>
 <br>
 
-### 나를 소개하는 한 문장 
 K-Digital Credit 국가 디지털 훈련과정 자바웹 개발자(시큐어코딩 + Docker  : 1080시간 )을 이수했습니다.<br>
 6개월 과정에서 총 4개의 프로젝트를 진행했습니다. 자바스크립트 게임 프로젝트(1주), 기초 웹 프로젝트(2주), 서블릿 crud 팀 프로젝트(3주), 스프링 시큐어 팀 프로젝트(3주) 과정을 통해서 전반적인 웹 개발 지식을 익혔습니다.<br>
 두 번의 팀 프로젝트에서 회원인증, 회원가입 등의 회원관련 부분을 맡은 경험이 있습니다.<br>
