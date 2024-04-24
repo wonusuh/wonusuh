@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github.com/wonusuh/wonusuh/upload/404.webp?raw=true" width="100"/>
+<img align="center" src="https://github.com/wonusuh/wonusuh/blob/main/upload/404.webp?raw=true" width="100"/>
 <br>
 
 K-Digital Credit 국가 디지털 훈련과정 자바웹 개발자(시큐어코딩 + Docker  : 1080시간 )을 이수했습니다.<br>
