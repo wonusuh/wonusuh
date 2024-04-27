@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github.com/wonusuh/wonusuh/upload/404.webp?raw=true" width="100"/>
+<img align="center" src="https://github.com/wonusuh/wonusuh/blob/main/upload/404.webp?raw=true" width="100"/>
 <br>
 
 K-Digital Credit 국가 디지털 훈련과정 자바웹 개발자(시큐어코딩 + Docker  : 1080시간 )을 이수했습니다.<br>
@@ -26,7 +26,6 @@ K-Digital Credit 국가 디지털 훈련과정 자바웹 개발자(시큐어코�
 
 ### 교육과정 수료 
 * 자바 웹 개발 (Docker) 양성 과정 (2023.10.10 ~ 2024.04.24 )
-* 이전에 수료했던 과정 풀네임 (기간)
 * 이전에 수료했던 과정 풀네임 (기간)
 
 ---
@@ -40,11 +39,18 @@ K-Digital Credit 국가 디지털 훈련과정 자바웹 개발자(시큐어코�
 ---
 
 ### 보유 기술 
-
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logoColor=white&labelColor=007396)
+![JSP](https://img.shields.io/badge/-JSP-007ACC?style=for-the-badge&logoColor=white&labelColor=007ACC)
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=ffffff)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=ffffff)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=ffffff)
+![MyBatis](https://img.shields.io/badge/-MyBatis-ffb732?style=for-the-badge&logoColor=white&labelColor=ffb732)
+![JPA](https://img.shields.io/badge/-JPA-8363A7?style=for-the-badge&logoColor=white&labelColor=8363A7)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 <br>
 
