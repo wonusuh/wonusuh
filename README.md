@@ -15,22 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github.com/wonusuh/wonusuh/blob/main/upload/404.webp?raw=true" width="100"/>
+<img align="center" src="https://github.com/wonusuh/wonusuh/blob/main/upload/profile.jpg?raw=true" width="100"/>
 <br>
 
 K-Digital Credit 국가 디지털 훈련과정 자바웹 개발자(시큐어코딩 + Docker  : 1080시간 )을 이수했습니다.<br>
-6개월 과정에서 총 4개의 프로젝트를 진행했습니다. 자바스크립트 게임 프로젝트(1주), 기초 웹 프로젝트(2주), 서블릿 crud 팀 프로젝트(3주), 스프링 시큐어 팀 프로젝트(3주) 과정을 통해서 전반적인 웹 개발 지식을 익혔습니다.<br>
+6개월 과정에서 총 4개의 프로젝트를 진행했습니다. 자바스크립트 게임 프로젝트(1주), 기초 웹 프로젝트(2주), 서블릿 crud 팀 프로젝트(3주), 스프링 시큐어 팀 프로젝트(3주) 과정을 통해서 전반적인 웹
+개발 지식을 익혔습니다.<br>
 두 번의 팀 프로젝트에서 회원인증, 회원가입 등의 회원관련 부분을 맡은 경험이 있습니다.<br>
 
 --- 
 
-### 교육과정 수료 
-* 자바 웹 개발 (Docker) 양성 과정 (2023.10.10 ~ 2024.04.24 )
-* 이전에 수료했던 과정 풀네임 (기간)
+### 교육
+
+* 자바(JAVA) 웹개발(백앤드)&앱개발자(클라우드활용) 취업캠프 (2023.10 ~ 2024.04 )
+* 빅데이터 UI 전문가 양성(Open API를 활용한 빅데이터 시각화) (2019.12 ~ 2020.06)
+* 장안대학교 비즈니스영어과 (2015.03 ~ 2017.02)
 
 ---
 
-### 참여 프로젝트 
+### 참여 프로젝트
+
 1. [프로젝트명1 ](https://yeonmitc.github.io/)
 2. [프로젝트명2](about:blank)
 3. [프로젝트명3](about:blank)
@@ -38,7 +42,8 @@ K-Digital Credit 국가 디지털 훈련과정 자바웹 개발자(시큐어코�
 
 ---
 
-### 보유 기술 
+### 보유 기술
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logoColor=white&labelColor=007396)
 ![JSP](https://img.shields.io/badge/-JSP-007ACC?style=for-the-badge&logoColor=white&labelColor=007ACC)
@@ -54,7 +59,7 @@ K-Digital Credit 국가 디지털 훈련과정 자바웹 개발자(시큐어코�
 
 <br>
 
-<h2>My Project previews videos</h2>
+<h2>프로젝트 프리뷰</h2>
 <table>
   <tbody>
     <tr>
