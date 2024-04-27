@@ -79,7 +79,7 @@ K-Digital Training 국가 디지털 훈련과정 자바웹 개발자(시큐어�
 <ul>
 <li>010-3920-3028</li>
 <li>wonwooseo23@gmail.com</li>
-<li><a href="https://github.com/wonusuh" target="_blank">GitHub</a></li>
+<li><a href="https://wonusuh.github.io/" target="_blank">Profile</a></li>
 <li><a target="_blank"
 href="https://harmless-case-a0c.notion.site/089fb9038c7b465b89279075e962c4b4?pvs=4">Notion</a>
 </li>
