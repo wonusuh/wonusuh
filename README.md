@@ -69,6 +69,7 @@ K-Digital Training 국가 디지털 훈련과정 자바웹 개발자(시큐어�
 ### Projects
 
 1. [게임 구매 서비스](https://github.com/Tyrano1129/GameSaleProject/)
+1. [게임 구매 서비스 배포링크](http://ec2-3-39-194-24.ap-northeast-2.compute.amazonaws.com:8081/)
 2. [영화 예매 서비스](https://github.com/SJL0616/MovieProject/)
 3. [카 렌트 서비스](https://github.com/wonusuh/Rentcar_MVC_2/)
 4. [자바스크립트 게임](https://wonusuh.github.io/FlyingBird/)
