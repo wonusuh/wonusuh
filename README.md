@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 -->
 <img align="center" src="https://github.com/wonusuh/wonusuh/blob/main/upload/profile.jpg?raw=true" width="100"/>
 <br>
+![wonusuh's github stats](https://github-readme-stats.vercel.app/api?username=wonusuh&show_icons=true)
+<br>
 K-Digital Training 국가 디지털 훈련과정 자바웹 개발자(시큐어코딩 + Docker  : 1080시간 )을 이수했습니다.<br>
 6개월 과정에서 총 4개의 프로젝트를 진행했습니다.<br>
 자바스크립트 게임 프로젝트(1주), 기초 웹 프로젝트(2주), 서블릿 crud 팀 프로젝트(3주), 스프링 시큐어 팀 프로젝트(3주) 과정을 통해서 전반적인 웹
