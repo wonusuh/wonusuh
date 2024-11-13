@@ -51,7 +51,8 @@ K-Digital Training 국가 디지털 훈련과정 자바웹 개발자(시큐어�
 ---
 
 ### Videos
-<table>
+
+<!--<table>
     <tr>
       <td>
         <a href="https://youtu.be/QXYB2vH2ezU" title="프로젝트1">
@@ -64,7 +65,7 @@ K-Digital Training 국가 디지털 훈련과정 자바웹 개발자(시큐어�
         </a>
       </td>
     </tr>
-</table>
+</table>-->
 
 ---
 
