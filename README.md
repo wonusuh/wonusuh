@@ -51,29 +51,28 @@ K-Digital Training 국가 디지털 훈련과정 자바웹 개발자(시큐어�
 ---
 
 ### Videos
-<!--
 <table>
     <tr>
       <td>
-        <a href="https://youtu.be/QXYB2vH2ezU" title="프로젝트1">
+        <a href="" title="프로젝트1">
           <img align="center" src="https://github.com/wonusuh/wonusuh/blob/main/upload/game_home_page.PNG?raw=true" width="300px"  alt="더조은게임즈"/>
         </a>
       </td>
       <td>
-      <a href="https://youtu.be/Hp6pRU-TA-E" title="프로젝트2">
+      <a href="" title="프로젝트2">
           <img align="center" src="https://github.com/wonusuh/wonusuh/blob/main/upload/movie_home_page.PNG?raw=true" width="300px"  alt="영화 프로젝트"/>
         </a>
       </td>
     </tr>
-</table>-->
+</table>
 
 ---
 
 ### Projects
 <!--
-1. [게임 구매 서비스](https://github.com/Tyrano1129/GameSaleProject/)
+1. [게임 구매 서비스](https:/티라노1129/)
 2. [게임 구매 서비스 배포링크](http://ec2-43-203-90-79.ap-northeast-2.compute.amazonaws.com:8081/)
-3. [영화 예매 서비스](https://github.com/SJL0616/MovieProject/)
+3. [영화 예매 서비스](https://slj/)
 4. [카 렌트 서비스](https://github.com/wonusuh/Rentcar_MVC_2/)
 5. [자바스크립트 게임](https://wonusuh.github.io/FlyingBird/)-->
 
